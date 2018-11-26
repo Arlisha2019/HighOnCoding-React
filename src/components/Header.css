@@ -1,0 +1,15 @@
+.menu {
+  background-color: #74b9ff;
+  color: white;
+  list-style: none;
+  display: flex;
+  
+}
+
+.menu li {
+  width: 100px;
+  padding: 10px;
+  width: 300px;
+  padding-left: 100px;
+
+}

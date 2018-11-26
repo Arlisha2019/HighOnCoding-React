@@ -1,0 +1,21 @@
+.subHeader {
+  color: #74b9ff;
+  margin-bottom: 0px;
+}
+
+.comments {
+  background-color: #FFA500;
+  color: white;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.paragraph {
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+
+div {
+  width: 900px;
+  padding-right: 90px;
+}
